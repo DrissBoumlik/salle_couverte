@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Dtsxsd" targetNamespace="http://tempuri.org/Dtsxsd.xsd" xmlns:mstns="http://tempuri.org/Dtsxsd.xsd" xmlns="http://tempuri.org/Dtsxsd.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SalleCouverteConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SalleCouverteConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GestionSalleCouverte.Properties.Settings.GlobalReference.Default.SalleCouverteConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="charanTableAdapter" GeneratorDataComponentClassName="charanTableAdapter" Name="charan" UserDataComponentName="charanTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SalleCouverteConnectionString1 (Settings)" DbObjectName="SalleCouverte.dbo.charan" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Montant, Dcpln, Mois, idmois, An FROM dbo.charan</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Montant" DataSetColumn="Montant" />
+              <Mapping SourceColumn="Dcpln" DataSetColumn="Dcpln" />
+              <Mapping SourceColumn="Mois" DataSetColumn="Mois" />
+              <Mapping SourceColumn="idmois" DataSetColumn="idmois" />
+              <Mapping SourceColumn="An" DataSetColumn="An" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Dtsxsd" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Dtsxsd" msprop:Generator_UserDSName="Dtsxsd">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="charan" msprop:Generator_TableClassName="charanDataTable" msprop:Generator_TableVarName="tablecharan" msprop:Generator_TablePropName="charan" msprop:Generator_RowDeletingName="charanRowDeleting" msprop:Generator_RowChangingName="charanRowChanging" msprop:Generator_RowEvHandlerName="charanRowChangeEventHandler" msprop:Generator_RowDeletedName="charanRowDeleted" msprop:Generator_UserTableName="charan" msprop:Generator_RowChangedName="charanRowChanged" msprop:Generator_RowEvArgName="charanRowChangeEvent" msprop:Generator_RowClassName="charanRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Montant" msprop:Generator_ColumnVarNameInTable="columnMontant" msprop:Generator_ColumnPropNameInRow="Montant" msprop:Generator_ColumnPropNameInTable="MontantColumn" msprop:Generator_UserColumnName="Montant" type="xs:double" minOccurs="0" />
+              <xs:element name="Dcpln" msprop:Generator_ColumnVarNameInTable="columnDcpln" msprop:Generator_ColumnPropNameInRow="Dcpln" msprop:Generator_ColumnPropNameInTable="DcplnColumn" msprop:Generator_UserColumnName="Dcpln" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mois" msprop:Generator_ColumnVarNameInTable="columnMois" msprop:Generator_ColumnPropNameInRow="Mois" msprop:Generator_ColumnPropNameInTable="MoisColumn" msprop:Generator_UserColumnName="Mois" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idmois" msprop:Generator_ColumnVarNameInTable="columnidmois" msprop:Generator_ColumnPropNameInRow="idmois" msprop:Generator_ColumnPropNameInTable="idmoisColumn" msprop:Generator_UserColumnName="idmois" type="xs:int" minOccurs="0" />
+              <xs:element name="An" msprop:Generator_ColumnVarNameInTable="columnAn" msprop:Generator_ColumnPropNameInRow="An" msprop:Generator_ColumnPropNameInTable="AnColumn" msprop:Generator_UserColumnName="An" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

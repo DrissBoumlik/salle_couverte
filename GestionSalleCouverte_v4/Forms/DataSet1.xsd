@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SalleCouverteConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SalleCouverteConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GestionSalleCouverte.Properties.Settings.GlobalReference.Default.SalleCouverteConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Salle_CouverteConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Salle_CouverteConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GestionSalleCouverte.Properties.Settings.GlobalReference.Default.Salle_CouverteConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_Recu_ImpTableAdapter" GeneratorDataComponentClassName="V_Recu_ImpTableAdapter" Name="V_Recu_Imp" UserDataComponentName="V_Recu_ImpTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Salle_CouverteConnectionString (Settings)" DbObjectName="Salle_Couverte.dbo.V_Recu_Imp" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nom, prenom, cin, date_pay, num_recu, cotisation, telephone, Id_Dcpln, nbrMoisPay FROM dbo.V_Recu_Imp</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom" DataSetColumn="nom" />
+              <Mapping SourceColumn="prenom" DataSetColumn="prenom" />
+              <Mapping SourceColumn="cin" DataSetColumn="cin" />
+              <Mapping SourceColumn="date_pay" DataSetColumn="date_pay" />
+              <Mapping SourceColumn="num_recu" DataSetColumn="num_recu" />
+              <Mapping SourceColumn="cotisation" DataSetColumn="cotisation" />
+              <Mapping SourceColumn="telephone" DataSetColumn="telephone" />
+              <Mapping SourceColumn="Id_Dcpln" DataSetColumn="Id_Dcpln" />
+              <Mapping SourceColumn="nbrMoisPay" DataSetColumn="nbrMoisPay" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_Recu_Imp" msprop:Generator_TableClassName="V_Recu_ImpDataTable" msprop:Generator_TableVarName="tableV_Recu_Imp" msprop:Generator_TablePropName="V_Recu_Imp" msprop:Generator_RowDeletingName="V_Recu_ImpRowDeleting" msprop:Generator_RowChangingName="V_Recu_ImpRowChanging" msprop:Generator_RowEvHandlerName="V_Recu_ImpRowChangeEventHandler" msprop:Generator_RowDeletedName="V_Recu_ImpRowDeleted" msprop:Generator_UserTableName="V_Recu_Imp" msprop:Generator_RowChangedName="V_Recu_ImpRowChanged" msprop:Generator_RowEvArgName="V_Recu_ImpRowChangeEvent" msprop:Generator_RowClassName="V_Recu_ImpRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom" msprop:Generator_ColumnVarNameInTable="columnnom" msprop:Generator_ColumnPropNameInRow="nom" msprop:Generator_ColumnPropNameInTable="nomColumn" msprop:Generator_UserColumnName="nom">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="prenom" msprop:Generator_ColumnVarNameInTable="columnprenom" msprop:Generator_ColumnPropNameInRow="prenom" msprop:Generator_ColumnPropNameInTable="prenomColumn" msprop:Generator_UserColumnName="prenom">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cin" msprop:Generator_ColumnVarNameInTable="columncin" msprop:Generator_ColumnPropNameInRow="cin" msprop:Generator_ColumnPropNameInTable="cinColumn" msprop:Generator_UserColumnName="cin" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="date_pay" msprop:Generator_ColumnVarNameInTable="columndate_pay" msprop:Generator_ColumnPropNameInRow="date_pay" msprop:Generator_ColumnPropNameInTable="date_payColumn" msprop:Generator_UserColumnName="date_pay" type="xs:dateTime" />
+              <xs:element name="num_recu" msprop:Generator_ColumnVarNameInTable="columnnum_recu" msprop:Generator_ColumnPropNameInRow="num_recu" msprop:Generator_ColumnPropNameInTable="num_recuColumn" msprop:Generator_UserColumnName="num_recu" type="xs:int" minOccurs="0" />
+              <xs:element name="cotisation" msprop:Generator_ColumnVarNameInTable="columncotisation" msprop:Generator_ColumnPropNameInRow="cotisation" msprop:Generator_ColumnPropNameInTable="cotisationColumn" msprop:Generator_UserColumnName="cotisation" type="xs:double" minOccurs="0" />
+              <xs:element name="telephone" msprop:Generator_ColumnVarNameInTable="columntelephone" msprop:Generator_ColumnPropNameInRow="telephone" msprop:Generator_ColumnPropNameInTable="telephoneColumn" msprop:Generator_UserColumnName="telephone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Id_Dcpln" msprop:Generator_ColumnVarNameInTable="columnId_Dcpln" msprop:Generator_ColumnPropNameInRow="Id_Dcpln" msprop:Generator_ColumnPropNameInTable="Id_DcplnColumn" msprop:Generator_UserColumnName="Id_Dcpln">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nbrMoisPay" msprop:Generator_ColumnVarNameInTable="columnnbrMoisPay" msprop:Generator_ColumnPropNameInRow="nbrMoisPay" msprop:Generator_ColumnPropNameInTable="nbrMoisPayColumn" msprop:Generator_UserColumnName="nbrMoisPay" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

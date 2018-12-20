@@ -1,0 +1,48 @@
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.exe
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.pdb
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.csprojResolveAssemblyReference.cache
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.Properties.Resources.resources
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.csproj.GenerateResource.Cache
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.exe.licenses
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.exe
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.pdb
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.FrmAdherent.resources
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.FrmAllAdherents.resources
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmSceanceDscpln.resources
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmRecette.resources
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmTraceAdherent.resources
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmPointage.resources
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.exe.config
+C:\Users\CarToUchE\Documents\_ME\Projects\C# Projects\C# DB Projects\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.WaitForm1.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.exe.config
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.exe
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.pdb
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.exe
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.pdb
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.csprojResolveAssemblyReference.cache
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmPointage.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmAllAdherents.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmSceanceDscpln.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmAdherent.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmRecette.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmTraceAdherent.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.Properties.Resources.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.WaitForm1.resources
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.csproj.GenerateResource.Cache
+C:\Users\CarToUchE\Desktop\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.exe.licenses
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.exe.config
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.exe
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.pdb
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.exe
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\bin\Debug\GestionSalleCouverte.pdb
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.csprojResolveAssemblyReference.cache
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmPointage.resources
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmAllAdherents.resources
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmSceanceDscpln.resources
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmAdherent.resources
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmRecette.resources
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.Properties.Resources.resources
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.WaitForm1.resources
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.csproj.GenerateResource.Cache
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.exe.licenses
+C:\Users\CarToUchE\Documents\_ME\DeskTop\IT\GestionSalleCouverte\GestionSalleCouverte\obj\x86\Debug\GestionSalleCouverte.frmTraceAdherent.resources
